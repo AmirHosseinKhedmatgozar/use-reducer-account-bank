@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  cursor: pointer;
+}
+input {
+  width: 80px;
+  color: black;
+}
